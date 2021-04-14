@@ -1,5 +1,4 @@
 # Network-Classification-using-Streamlit-and-Python
 
-This is the classification of Network Traffic. We used four feature : Destination IP, Source IP, Destination Port, and Source Port. These feature is used to classify 10 application. 
-
-We create this app using Python and Streamlit and then are hosted by Heroku
+This was the classification of Network Traffic. 
+We created this app using Python and Streamlit and then it was hosted by Heroku
